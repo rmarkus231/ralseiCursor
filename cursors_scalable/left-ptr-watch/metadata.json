@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "left_ptr_watch_000.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "left_ptr_watch_001.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "left_ptr_watch_002.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "left_ptr_watch_003.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "wait_000.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "wait_001.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "wait_002.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    },
+    {
+        "filename": "wait_003.svg",
+        "delay":183,
+        "hotspot_x": 3,
+        "hotspot_y": 1,
+        "nominal_size": 32
+    }
+]
